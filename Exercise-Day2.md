@@ -13,14 +13,14 @@
 
 # Exercise2
 
-## Write a Java program to convert a given string into lowercase.  
+- ### Write a Java program to convert a given string into lowercase.  
 #### Sample Output:
 #### Input a String: THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.           
 #### the quick brown fox jumps over the lazy dog.
 
 # Exercise3
 
-## Write a Java program and compute the sum of the digits of an integer. 
+### Write a Java program and compute the sum of the digits of an integer. 
 #### Input Data:
 #### Input an integer: 25
 
